@@ -12,7 +12,7 @@ To me, DevOps is a culture. A state of mind, if you will. When I hear 'DevOps', 
 
 Continuous Delivery is a piece of the puzzle to become a high performing DevOps organization. If DevOps is about the culture needed to quickly release valuable services to our users, CD is the delivery mechanism to do that. 
 
-I like to think about Continuous Delivery as a car driving on a road at night, and see Testing and Monitoring/Alerting (our feedback) as the head lights. We can drive down the road without them, but testing and feedback keep us from going off-road (and potentially wrecking our car!). (credit of his analogy to my colleague, John Yetter!)
+I like to think about Continuous Delivery as a car driving on a road at night, and see Testing and Monitoring/Alerting (our feedback) as the head lights. We can drive down the road without them, but testing and feedback keep us from going off-road (and potentially wrecking our car!). (credit of this analogy to my colleague, John Yetter!)
 
 # What are my goals as a tester to help facilitate collaboration (and productivity)
 
